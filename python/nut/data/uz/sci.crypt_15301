@@ -1,0 +1,21 @@
+From: hal@cco.caltech.edu (Hal Finney) Mavzu: Re: Qanday qilib, u, albatta ishlaydi? (: White House e&#39;lon va Q matn va qaychi chip shifrlash sifatida Re edi)
+Mark VanHeyningen &lt;mvanheyn@cs.indiana.edu&gt; yozadi:
+&gt; Men faqat olish yo&#39;q asosiy narsa bu yonga&gt; nosimmetrik yoki assimetrik kriptografik texnik ijro emasligini.
+Har bir kishi, bilasizmi?
+Men bilmayman, lekin men hech kimga sifatida taxmin sifatida tayyor emasman.
+Bir necha kishi chips ijtimoiy-kalit shifrlash foydalanish tavsiya qilgan.
+Yana bir imkoniyat kalit almashishni, yoki shunga o&#39;xshash ta&#39;sir ko&#39;rsatadi, ba&#39;zi boshqa algoritmi Diffie-Hellman foydalanish hisoblanadi.
+DH ikkovlari shifrlash uchun nosimmetrik kriptografiya (DES kabi narsa) bilan foydalanish bir tizimga kaliti qabul qilish tugaydi beradi.
+Qanday &quot;orqa eshik&quot; tugmalari bu tizimda ishlashi mumkin?
+Men bir necha imkoniyatlarni ko&#39;rish mumkin.
+One DH-kabi algoritm kengashi kalit bir (yoki ehtimol, ham) Jamoatning uchun orqa eshik kalitlari biladi bir yashirincha quloq soluvchi orqali chiqarilishi mumkin xususiyatiga ega, deb hisoblanadi.
+Ehtimol, DH ishlatiladigan tasodifiy raqamlar orqa eshik kaliti, yoki ba&#39;zi bunday tomonidan ekilgan etiladi.
+Yana bir imkoniyat, bu erda ilgari taklif etilgan bo&#39;lib, chips, faqat yonga o&#39;z ichki maxfiy kalit bilan shifrlangan sessiya kaliti, efirga deb.
+Ushbu tizimda orqa eshik kalitlari bu sessiya asosiy adabiyotni parolini hal qilish uchun foydalanish mumkin maxfiy kalitlari.
+Aslida yonga ning maxfiy kalit bu foydalanish davlat kalit bo&#39;lishi kerak emas, ammo sir orqa-eshik kalitiga o&#39;xshash bo&#39;lishi mumkin.
+(Bu taklif menga eng to&#39;g&#39;ri ko&#39;rinadi.)
+Shunday bo&#39;lsa-da, yana bir imkoniyat xabar o&#39;zi uchun ishlatiladigan shifrlash algoritmi bir &quot;dual kalit&quot; xususiyatiga ega ekanligini, ikki kalitlari ham bu egalik uni parolini hal qilish uchun foydalanish mumkin.
+One asosiy DH almashish sessiyasi asosiy bo&#39;lardi, va boshqa jip uchun orqa eshik kalit bo&#39;ladi.
+Bu Dorothy Denning uning ajoyib bashorat qiladigan on-line muhokama o&#39;tgan noyabr va dekabr oylari davomida ko&#39;tarilgan takliflar bir uchinchi shaxs sessiya kalitlari olgan ishtirok edi bo&#39;lgan Diffie-Hellman, bir xil ekanligini qayd arziydi.
+Bu juda biz qanday Clipper ishlari bilaman nima mos emas, lekin u Clipper erta ilmi bor kishilar, deb shama qildi (yoki uning fikr negadir Clipper dizaynerlari bilan hamohang edi), ularning ongida bo&#39;yicha Diffie-Xellman bor bo&#39;lishi mumkin.
+Hal Finney

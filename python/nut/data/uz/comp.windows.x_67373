@@ -1,0 +1,11 @@
+From: hans@xelion.nl (Hans Bos) Mavzu: X11R5 bilan ostida Saqlash
+Men X11R5 serverlarida quyidagi muammo bor.
+Mening bir oyna o&#39;rnatish funktsiya Saqlash ostida bo&#39;lgan bir pop up oynasida tomonidan yashirin bo&#39;lsa, mening oynaning bobda tiklanadi emas.
+Ota-window tadbir fosh oladi, lekin xislat ostida saqlab, chunki hech qanday yuboriladi voqea fosh, mening oyna yashirin pop up oyna uchun ishlatiladi qachon Odatda, bobda chiziladi bor.
+ExposureMask bola oyna uchun lsa yopish window yo&#39;qolganda, o&#39;sha windows to&#39;g&#39;ri ammo keyin ariza voqealar fosh juda ko&#39;p oladi va siz qo&#39;shimcha redraws qarang yangilanadi.
+Har bir narsa X11R4 bilan yaxshi ishlaydi.
+X11R4 va X11R5 (aniq) o&#39;rtasida bu narsa o&#39;zgaradi, deb?
+Men zulm narsa bormi?
+(Ham meniki) oynani oyna qilishim kerak narsa bormi?
+Bu X11 ozod 5 xato bormi?
+Salom, - ---------------------------------------------- ------------------------ Hans Bos domen: hans@xelion.nl Xelion BV UUCP:! ... sun4nl xelion Hans Postbus 88 Telefon: +31 15 622121

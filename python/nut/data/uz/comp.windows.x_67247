@@ -1,0 +1,17 @@
+From: ge!severy%severy@uunet.UU.NET (severy) Mavzu: xohlagan paytda bekor oyna boshqaruvchiName markazida qayta ishlash
+Men oyna boshqaruvchiName markazida qayta ishlash ayrim bekor kerak bo&#39;lgan X-Window asoslangan dastur ustida harakat qilaman.
+Men ham kelajakda Open Look bilan ishlaydi-da, men, X11R4 va uzoqdan hozirda 1,1 foydalanib.
+Muayyan holatlar dastur bir derazadan boshqa derazasiga o&#39;tish foydalanuvchi oldini ostida nima qilish kerak bo&#39;ladi.
+Misol uchun, bu Window A window muassasada Window B ustiga, aytaylik.
+Foydalanuvchi Window B sichqoncha tıklatırsa foydalanuvchi Window BI sichqonchani tıklatırsa Odatda, u signal va Window B oldini olish uchun kerak window ierarxik yuqori olib va ​​muayyan sharoitlarda Window A ustiga joylashtiriladi Window A ustiga ko&#39;tardi oshirilmoqda
+Men hozirga qadar amalga ayting tadqiqot va sinov, bu oyna buyurtma bu holda uzoqdan ham, oyna boshqaruvchisi tomonidan hal etiladi, deb ko&#39;rsatiladi.
+Men standart X Window vazifalari orqali bu ko&#39;rsatuv qayta ishlash bekor qilish har qanday yo&#39;l topmadik.
+Bu kommutatsiya markazida o&#39;zgarish va xaritalash hodisalarni xabardor orqali sodir bo&#39;ladi, men aytishim mumkin, lekin men o&#39;zgartirishda emas g&#39;oya aytish har qanday yo&#39;l topa olmaysiz.
+Men hozirda bilan keldim vaqtinchalik yechim juda kludgy, lekin u qisman ishlaydi.
+Switch ruxsat berilmaydi, men o&#39;sha hollarda bunday oyna kaliti aniqlash, men qo&#39;l XBell funktsiyasi bilan bir XRaiseWindow qo&#39;ng&#39;iroq va ovozli signal ohangini bilan orqaga ustiga avval uch oynasini majbur.
+Bu zarur funksiyalarini ta&#39;minlaydi, lekin windows ikki marta joylarga yoqilganda yomon ko&#39;rinadi.
+Har bir inson, men aslida bo&#39;lib o&#39;tadi window tartibi kalitini istamayman, men (afzal yoki * har qanday * oyna boshqaruvchiName) g&#39;oya aytishim mumkin, qanday qilib biladi?
+Javob ham bu xabar guruhiga e-mail yoki chop tomonidan.
+Cheers ....
+Randall
+************************************************** ************************* * Randall Severy * UUNET:! uunet ilmiy severy * * GE Information Services * INTERNET: ge severy @ uunet. uu.net * * 401 N. Vashington etdi MC05A * GENIE: RSEVERY * * Rockville, MD 20850 USA * Telefon: + 1-301-340-4543 * *************** ************************************************** **********

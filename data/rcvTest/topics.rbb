@@ -1,0 +1,103 @@
+C11      strategy  new companies  joint ventures  consortia  diversifications  investment
+C12      legal proceedings  court rulings and investigations
+C13      regulation  deregulation  self regulation  rulings  government policy  licensing
+C14      share listings  delistings  suspensions
+C15      corporate and industrial performance
+C151     accounts  results  reports  dividends
+C1511    announcements of full year results
+C152     forecasts  performance reviews  comment and recommendations  investment research
+C16      bankruptcies  insolvencies and liquidations
+C17      all sources of capital and financing  incl  rescue packages and state aid
+C171     share issues and equity
+C172     bond issues and debt instruments
+C173     bank loans and credits
+C174     corporate credit ratings
+C18      all changes of ownership
+C181     acquisitions  divestments  mergers  buy outs  buy ins  share stakes
+C182     sales and purchases of assets  e g  land
+C183     all sales of public assets
+C21      products and production  output  services and activities  mineral and agricultural production
+C22      new product and service announcements
+C23      research and development
+C24      production service facilities  processes  capacity  closures  production costs  mineral exploration and development
+C31      sales  markets  marketing  market research  product pricing
+C311     domestic markets  sales and imports
+C312     external markets and exports
+C313     market share figures
+C32      corporate advertising and promotion
+C33      contracts and orders  incl  contract pricing
+C331     contracts for supply to armed forces
+C34      monopolies  anti trust  restrictive practices and competition issues
+C41      all management issues
+C411     management appointments  resignations  retirements  profiles
+C42      labour  incl  recruitment and lay offs  strikes and disputes
+CCAT     ALL Corporate Industrial
+E11      Gross National Domestic Product and economic performance
+E12      monetary economic policy and intervention  interest rates
+E121     money supply
+E13      inflation  prices and price indices
+E131     consumer prices and price indices
+E132     wholesale prices and price indices
+E14      levels of personal spending  income and debt
+E141     personal income less taxes
+E142     consumer credit instalment debt
+E143     retail sales figures
+E21      government spending and revenue
+E211     government expenditure and revenue  incl  budgets  taxation and fiscal policy
+E212     government borrowing and debt
+E31      factory output  capacity and inventory
+E311     industrial production indices
+E312     manufacturing industry capacity use
+E313     inventories and stocks of manufacturing raw materials
+E41      employment  unemployment  labour and labour relations
+E411     unemployment figures
+E51      balance of external payments and reserves  incl  Aid
+E511     balance of payments  i e  current account  balance on services and invisibles  capital movements
+E512     current account  i e  balance on imports and exports of physical goods
+E513     holdings of gold  foreign exchange and other assets
+E61      housing units begun construction and level of building permits
+E71      leading economic indicators
+ECAT     ALL Economics and Economic Indicators
+G15      ALL European Community affairs
+G151     EC internal market  incl  internal trade policies and tariffs
+G152     EC corporate and industry policy
+G153     EC agriculture and fisheries policy
+G154     EC economic  monetary and financial policy  incl  issues affecting financial markets and services
+G155     EC institutions  incl  Commission  Parliament  European Court
+G156     EC environmental initiatives  policy and issues
+G157     EC competition policy  and subsidies
+G158     EC external relations  incl  trade
+G159     ALL EC stories not categorised by above codes
+GCRIM    civil and criminal law  law and order issues drug related crime corporate crime  crime  fraud  murder  criminals  mafia  police
+GDEF     armed forces  defence policy  defence budget 
+GDIP     foreign affairs  visits  treaties  summits  delegations  international cooperation and disputes
+GDIS     natural disasters  earthquakes  tsunami  volcanoes tidal waves hurricanes  tornadoes  man made disasters  airplane motorway crashes  boats sinking 
+GENT     performing non performing arts  theatre tv radio festivals exhibitions
+GENV     pollution  conservation  green issues  recycling  alternative energy  natural world  environmental disasters  oil spills 
+GFAS     designers  modelling  latest styles and trends
+GHEA     health  disease  medicines and drugs  medical research  hospitals  national health services
+GJOB     all matters relating to labour issues  employment  unemployment  strikes  legislation  unions  job related issues
+GMIL     all issues associated with the on coming millennium and the year 2000
+GOBIT    stories relating to deaths of famous persons
+GODD     ODD on N2000  e g  man with head in sand  Reuter news only
+GPOL     political parties  parliament  congress  constitution
+GPRO     people in the news  profiles  politicians   celebrities  eg royalty
+GREL     all matters relating to religion
+GSCI     all aspects of science  research and new technology  space travel &amp  exploration
+GSPO     all sports stories
+GTOUR    holidays  features about places  tourist issues  arrivals 
+GVIO     civil unrest  demonstrations  civil war  war
+GVOTE    national regional local elections  relates only to governments
+GWEA     weather conditions
+GWELF    social services  welfare benefits  legislation  poverty  homelessness
+GCAT     All Government and Social
+M11      stock exchanges  performance of equities
+M12      primary and secondary bond and debt instrument markets
+M13      markets in bank deposits and foreign exchange
+M131     markets between banks for short term transfers of funds
+M132     foreign exchange trading and exchange rates
+M14      trading in all commodities
+M141     trading in all agricultural commodities
+M142     trading in all metals
+M143     trading in all energy products
+MCAT     ALL Securities and Commodities Trading and Markets

@@ -1,0 +1,11 @@
+Daga: hans@xelion.nl (Hans Bos) Subject: Ajiye A karkashin tare da X11R5
+Ina da matsala da wadannan a kan X11R5 sabobin.
+A lõkacin da wata taga na an rufe ta a pop up taga wanda yana da Ajiye A karkashin sifa sa, da subwindows na taga ba su mayar.
+A yadda aka saba, da subwindows ne redrawn lokacin da iyaye taga samun wani bijirar taron, amma saboda ya ceci karkashin sifa da ake amfani da pop up taga cewa rufe ta taga, ba bijirar taron da aka aiko.
+A lokacin da ExposureMask an saita ga yaro windows, wadanda ake windows daidai updated a lokacin da Popup taga vuya, duk da haka sai da aikace-aikace samun da yawa bijirar da abubuwan da ka ga karin redraws.
+Duk abin da ya aikata aiki lafiya da X11R4.
+An wannan wani abu da aka canja a tsakanin X11R4 da X11R5 (fili)?
+Shin, wani abu na azzãlumai?
+Shin, akwai wani abu da cewa Popup taga ya kamata yi (wanda kuma mine)?
+Shin, wannan wani kwaro a X11 saki 5?
+Gaisuwa, - ---------------------------------------------- ------------------------ Hans Bos yankin: hans@xelion.nl Xelion BV uucp: ...! sun4nl! xelion! Hans Postbus 88 wayar: +31 15 622121

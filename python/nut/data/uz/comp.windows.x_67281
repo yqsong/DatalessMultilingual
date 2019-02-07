@@ -1,0 +1,10 @@
+From: toml@boulder.parcplace.com (Tom LaStrange) Mavzu: Re: deraza uchun o&#39;ziga xos koordinatalarini qabul qilish uchun oyna boshqaruvchisini majburlash
+Maqolada &lt;C5xxq0.18M@cs.columbia.edu&gt; ethan@cs.columbia.edu (Ethan Solomita) yozadi:&gt; maqolada &lt;BADING.93Apr23105229@athene.cs.tu-berlin.de&gt; bading@cs.tu- In berlin.de (Tobias &quot;velopoygachi» Bading) yozadi: &gt;&gt; &gt;&gt; men MWm postlar uchun foydalanish uchun, agar &gt;&gt; a deraza yoki &quot;foydalanuvchi&quot; oynasida uchun chegarani belgilash uchun manba bor, deb bilaman.
+Ehtimol, boshqa oyna rahbarlari &gt;&gt; o&#39;xshash variant bor. &gt;&gt; &quot;Foydalanuvchi&quot; oyna holatiga o&#39;rtasidagi farqni &gt;&gt; va oyna boshqaruvchiName bezatish window o&#39;rnini tushunishga yana bir usuli o&#39;z &gt;&gt; mavqeini oling iborat.
+Siz faqat XQueryTree foydalanish va oyna boshqaruvchiName &gt;&gt; bezaklar oynasi oyna ota-deb eslash kerak.
+Window eşlenen qilinganidan keyin Afsuski, siz faqat &gt;&gt; &gt;&gt; bu yo&#39;l bezatish kengligi va balandligi tushunishga mumkin. &gt;&gt;&gt; Yana bir usuli siz rom nisbatan qaerda&gt; Ijaraga topish GetGeometry foydalanish bo&#39;lardi, va siz darcha upperleft burchak, albatta, qaerda TranslateCoordinates&gt; Ijaraga topish.
+Men oldin ham aytgan ayting sifatida, oyna boshqaruvchiName bezatish hajmini topish uchun hech qanday ishonchli yo&#39;li bor.
+Sizning window reparented bo&#39;lsa, siz uchun parented ku oyna oyna boshqaruvchiName bezatish hamma ushlab window deb o&#39;z zimmasiga olmaydi.
+Windows turli qatlamlari bor bo&#39;lishi mumkin.
+Agar ko&#39;p hollarda ishlaydi ildizi olish qadar bir necha XQueryTree irodasi, lekin tashqarida bezatish window displeyda (tvtwm) ildiz oynada parented deb hech kim kafolat yo&#39;q.
+- Tom LaStrange toml@boulder.ParcPlace.COM

@@ -1,0 +1,29 @@
+From: korenek@nmti.com (Bro korenek) Mavzu: Re: Maslahat 486 VLB / ISA / EISA anakart
+Maqolada &lt;C5t7Gs.7v3@news.iastate.edu&gt; schauf@iastate.edu (Brian J Schaufenbuel) yozadi:&gt; maqolada &lt;id.XNFZ.VJ8@nmti.com&gt; korenek@nmti.com (Bro korenek) yozadi: &gt;&gt; &gt;&gt; men Maslahat yonga foydalanadi har qanday VL / EISA / ISA diskdan &gt;&gt; 24-bit EISA DMA («real» EISA DMA 32-bit qaerda) cheklangan, deb ishonamiz.
+&gt;&gt; Maslahat EISA DMA Iso cheklanishiga hal 16 MB RAM mavjud.
+Bu &gt;&gt; Shuning uchun men o&#39;tib ketadi.
+Men aynan shu sababli uni o&#39;zgartirish uchun quyidagi birini (HAWK VL / EISA / ISA) va look- qilaman &gt;&gt; ing egasi. &gt;&gt; Meni bu ikki tekshiring.
+Boshqa so&#39;zlar bilan aytganda, anakart &gt;&gt; ishlab chiqaruvchi qo&#39;ng&#39;iroq va anakart haqiqiy 32-bit EISA &gt;&gt; DMA qo&#39;llab-quvvatlasa, ularni so&#39;rang. &gt;&gt; Bu cheklash tashqari, anakart (DOS 5, Windows 3.1, va UNIX S5R3.2 bilan men foydalanib &gt;&gt; meniki) juda yaxshi ishlaydi.
+Bundan tashqari, Adaptec 1742a &gt;&gt; EISA SCSI mezbon adapter bilan. &gt;&gt; Gary Korenek (korenek@nmti.com)&gt;&gt;&gt; Sen to&#39;g&#39;ri!
+Men odatda platalar sotib anakart ishlab chiqaruvchi ular haqida ikki hafta ichida sobit bu muammo bo&#39;ladi, deb&gt; deydi ...&gt; | Brian J Schaufenbuel
+Men chip-majmui (a xato) bilan bir muammo, bu ko&#39;rmayapman, men mo&#39;ljallangan-yilda edi ongli narsa, bu qarang.
+Shunday qilib, u yonga, bir yangilash talab qiladi (24 dan 32-bit EISA DMA uchun) dizayni rivojlantirish uchun bu tuyuladi.
+Yonga bir yangilash anakart kengashi dizayn uchun bir yangilash tug&#39;ilganidan mumkin.
+Nima, men saing qilyapman, deb: anakart ishlab chiqaruvchi oddiy tuzatish, bu off o&#39;tgan ko&#39;rinadi.
+Mening yodda tuzatish mumkin anakart reja yangilash bilan birga Maslahat bir yangilangan chipset hisoblanadi.
+Bu oddiy emas.
+Men seni bo&#39;lsa edi, men bu haqida ehtiyotkor bo&#39;ladi.
+Siz Advanced integratsiya tadqiqot (havo) VL / EISA ota-ichiga qarash mumkin.
+Barcha Slot EISA / ISA imkoniga ega.
+2 (yoki 3) Slot VL-avtobus imkoniga ega.
+HAVO odamlar bu taxta qo&#39;llab-quvvatlaydi &quot;real&quot; 32-bit EISA DMA (I ularni ham chaqirdi) tasdiqladi.
+Pentium / P5 (?) Qodir.
+Teng àmì yoki Micronics VL / EISA kengashi kamroq qimmat.
+Computer Shopper (aprel &#39;93) qarang. ZENON e&#39;lonlar Air Onadan kengashi ko&#39;rsatadi.
+A dotsent Air kengash oldim va u bilan xursand bo&#39;ladi.
+Men Air kengashi uchun HAWK kengashi amalga savdo mahalliy dileriga olish uchun harakat qilyapman.
+(486-33DX bilan) AIR kengashi Model soni B433EI2 hisoblanadi.
+Siz bir narxlari uchun (masalan) Motherboard QXI qo&#39;ng&#39;iroq qilishingiz mumkin.
+Telefon # &#39;s ostida o&#39;z ichiga oladi.
+AIR (408) -428-0800 Motherboard Dastgoh (800) -486-9975
+- Gary Korenek (korenek@nmti.com) Network Management Technology Incorporated Sugar Land, Texas (713) 274-5357

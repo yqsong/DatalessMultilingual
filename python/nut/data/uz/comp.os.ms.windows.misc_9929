@@ -1,0 +1,18 @@
+From: dbd@icf.hrb.com (Douglas B. Dodson) Mavzu: Windows 3.1 yoki DOS 5.0 yoki SMARTDRV yoki ???
+Salom,
+Men bu muammo, Windows 3.1 SMARTDRV va VESA video karta ... har qanday g&#39;oyalar bilan, albatta, bir narsa bo&#39;lishi mumkin deb o&#39;ylagan ???
+Men yaqinda bir 486DX-33 mashinasini sotib mashina to&#39;satdan sovuq yoki reboot bo&#39;ladi muammolarni yashayman.
+Bu Windows 3.1 yoki DOS 5.0 sodir bo&#39;lishi mumkin.
+Ba&#39;zan ba&#39;zan sichqoncha yordamida so&#39;ng, bir hujjatni chop keyin, va ba&#39;zan men o&#39;tirgan qilaman faqat qachon.
+Bu hodisa ro&#39;y berganda ikki marta, mashina qayta va yetti ovozli signal ohangini yangradi.
+Men hujjatlarida qaradi va etti qisqa kodi chiqib ketish bilan bog&#39;liq muammo edi.
+mashina quyidagi konfiguratsiya va fayllar bor:
+Bo&#39;yicha 486DX-33 àmì BIOS 5,25 va 3,5 floppi 170 Meg edi qattiq disk 256k kesh Microsoft mos sichqoncha COM1 Citizen GSX-145 VESA Windows Accelerator Card bilan lpt1 NI SuperVGA monitor ustida 1Meg ikki VESA Windows 3.1 DOS 5.0 uya / w
+CONFIG.SYS ========== QURILMA = C: \ DOS \ SETVER.EXE fayllarni = 20 TAKOZLARI = 20 g&#39;aram = 9.128: \ WINDOWS \ HIMEM.SYS DOS OLIY DEVICEHIGH = C =
+AUTOEXEC.BAT ============ECHO OFF LH C: \ WINDOWS \ SMARTDRV.EXE 1024 again $ p $ g PATH C: \ DOS; C: \ WINDOWS; C: \ Sichqonchasi LH C : \ Sichqonchasi \ Sichqonchasi vositasi temp = C: \ DOS LH C: \ DOS \ DOSKEY
+Mashina qaytmoqda, men sichqoncha yoki klaviatura foydalanish yoki qayta Ctrl-Alt-Del foydalana olmaysiz.
+Har qanday bir menga har qanday yordam berishi mumkin bo&#39;lsa, men juda ham quvonamiz.
+Har bir kishi eng yaxshi mahsuldorlikka uchun bu mashinadan modernizatsiya qilish mumkin (xotira dono) Men ham taqdir edi.
+- Duglas B. Dodson Internet: DBD@ICF.HRB.COM HRB tizimlari, Inc.
+Davlat kolleji, zbekiston USA 16804
+Voz kechish! =========== Bu erda bildirdi Har qanday fikr yoki fikrlar HRB g&#39;oyalarini yoki fikrlarini aks ettirmaydi.

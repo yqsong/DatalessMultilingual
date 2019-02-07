@@ -1,0 +1,20 @@
+data/ar-ha/ar_0_testing.txt model-ar-ha-0.bz2 data/ar-ha/lg_0_training.txt
+
+data/ar-ha/ar_1_testing.txt model-ar-ha-1.bz2 data/ar-ha/lg_1_training.txt
+
+data/ar-ha/ar_2_testing.txt model-ar-ha-2.bz2 data/ar-ha/lg_2_training.txt
+
+data/ar-ha/ar_3_testing.txt model-ar-ha-3.bz2 data/ar-ha/lg_3_training.txt
+
+data/ar-ha/ar_4_testing.txt model-ar-ha-4.bz2 data/ar-ha/lg_4_training.txt
+
+
+data/ar-uz/ar_0_testing.txt model-ar-uz-0.bz2 data/ar-uz/lg_0_training.txt
+
+data/ar-uz/ar_1_testing.txt model-ar-uz-1.bz2 data/ar-uz/lg_1_training.txt
+
+data/ar-uz/ar_2_testing.txt model-ar-uz-2.bz2 data/ar-uz/lg_2_training.txt
+
+data/ar-uz/ar_3_testing.txt model-ar-uz-3.bz2 data/ar-uz/lg_3_training.txt
+
+data/ar-uz/ar_4_testing.txt model-ar-uz-4.bz2 data/ar-uz/lg_4_training.txt

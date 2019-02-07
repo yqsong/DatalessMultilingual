@@ -1,0 +1,10 @@
+From: mouse@thunder.mcrcim.mcgill.edu (der Sichqoncha) Mavzu: Re: window identifikatorlari, bir savolga
+Maqolada &lt;wnk.734824081@aquifer.geology.uiuc.edu&gt; wnk@aquifer.geology.uiuc.edu (Walter Kreiling) yozadi:
+&gt; Biri yuqori ishlayotgan bo&#39;lgan oyna ochiladi qanday, bir X asoslangan oyna&gt; tizimi bilan ish stantsiyani ustida ishlaydigan, bir dastur hisobga. &gt; Oynasida, men u huquqdan qaysi terminal oynasi degani.
+One olmaydi.
+dastur terminal emulator dan boshlangan bo&#39;lishi mumkin; u bo&#39;lsa, terminal Emulator hali mavjud emas mumkin, va u hech bir holatda bo&#39;lishi mumkin qilsa (masalan, u iconified mumkin) &quot;qismiga [PED] pop&quot;.
+Hatto mumkin bo&#39;lsa, u siz istagan narsani qila olishi mumkin - real ish stoli tashqarida bo&#39;ldi virtual ish stoli, bir qismi tegishli oyna bilan, tvtwm kabi bir virtual-ildiz oyna boshqaruvchisini o&#39;ylab ko&#39;ring.
+Ba&#39;zi (emas, balki barcha) X terminal emulyatorlarni bir oyna ID berib muhit o&#39;zgaruvchilar beradi.
+Bunday narsa atrof-muhit mavjud bo&#39;lsa ham, u siz istagan narsani bo&#39;lmasligi mumkin; Bu, masalan, bir xil serverda bir oynada mos mumkin.
+der Sichqoncha
+html>

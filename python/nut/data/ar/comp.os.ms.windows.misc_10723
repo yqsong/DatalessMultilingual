@@ -1,0 +1,8 @@
+من: jhardono@nickel.ucs.indiana.edu (النصاب القانوني المستقل موزع الحاسوب البائع الشاحن) الموضوع: لماذا نافذتي 3.1 إعادة تشغيل جهاز الكمبيوتر الخاص بي؟
+FILES = 30 BUFFERS = 30 DEVICE = C: \ WINDOWS \ HIMEM.SYS DEVICE = C: \ WINDOWS \ SMARTDRV.EXE / DOUBLE_BUFFER STACKS = 9256
+وأيضا بلدي AUTOEXEC.BAT
+C: \ vshield C: \ WINDOWS \ SMARTDRV.EXE / L عيني ***************** MouseWare 5.0 الإعداد *************** *** PATH = C: \؛ C: \ DOS؛ C: \ WINDOWS؛ C: \ FAX؛ C: \ MOUSE؛ C: \ WP51 \؛ SET TEMP = C: \ WINDOWS \ TEMP MOUSE SER 2 العينية ************************************* ******************* C: \ DOS \ حصة
+هل رأيت هذه المشكلة من قبل؟
+الرجاء مساعدتي ...
+شكر
+هادي

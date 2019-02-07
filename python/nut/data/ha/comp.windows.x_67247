@@ -1,0 +1,17 @@
+Daga: ge!severy%severy@uunet.UU.NET (severy) Subject: overriding taga kocin mayar da hankali aiki
+Ina aiki a kan wani X-Window bisa aikace-aikace da bukatar ya override wasu daga cikin taga kocin mayar da hankali aiki.
+Ina ta yin amfani da X11R4 da motif 1.1 a halin yanzu, ko da yake na ma za a aiki tare Open Ka dũba a nan gaba.
+Abin da na bukatar mu yi shi ne a karkashin wani yanayi hana mai amfani da ya sauya sheka daga daga daya taga na aikace-aikace zuwa wani taga.
+Bari mu ce, misali, cewa Window A ne a saman Window B a cikin taga matsayi.
+A yadda aka saba, idan mai amfani yana kaɗawa da linzamin kwamfuta in Window B za a kawo wa saman taga matsayi da kuma sanya a saman Window A. A karkashin wani yanayi idan mai amfani yana kaɗawa da linzamin kwamfuta in Window BI bukatar zuwa Ihu da kuma hana Window B daga da ake tãyar da a saman Window A.
+Daga bincike da gwaji Na yi ya zuwa yanzu, wannan ya nuna cewa wannan taga ordering da aka abar kulawa da taga sarrafa, a wannan yanayin motif.
+Ban sami wata hanya zuwa ga override wannan tsoho aiki ta hanyar misali X Window ayyuka.
+Zan iya gaya lokacin da wannan ya auku, ta hanyar mayar da hankali sharuddan sauyawa canji da kuma zana taswira sanar da abubuwan da suka faru, amma ba zan iya sãmun hanya gaya motif ba su sa da canji.
+A wucin gadi bayani Na a halin yanzu fito da sosai kludgy amma partially aiki.
+Lokacin da na gane da irin wannan taga canji a waɗannan lokuta, a lõkacin da canji ba a yarda, na da hannu tilasta wa da saman taga baya a kan saman da wani XRaiseWindow kira da sauti da XBell aiki.
+Wannan na samar da zama dole ayyuka amma ya dubi mummuna a lokacin da windows canjawa wuraren sau biyu.
+Shin, wanda ya san yadda zan iya gaya motif (ko zai fi dacewa * * wani taga kocin) lokacin da na ba ka so taga domin canza zuwa zahiri faru?
+Amsa ko dai ta hanyar e-mail ko aika rubuce rubuce to wannan majalisan tattaunawa kadai.
+Bisimillah ....
+Randall
+************************************************** ************************* * Randall Severy * UUNET: uunet! Far! severy * * GE Bayanan Intanet * Yanar-gizo: Far! severy @ uunet. uu.net * * 401 N. Washington St. MC05A * Genie: RSEVERY * * Rockville, MD 20850 USA * WAYAR: + 1-301-340-4543 * *************** ************************************************** **********

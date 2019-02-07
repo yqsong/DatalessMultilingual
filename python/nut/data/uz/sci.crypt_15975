@@ -1,0 +1,19 @@
+From: nagle@netcom.com (Yuhanno Nagle) Mavzu: Re: Yangi shifrlash Algoritm
+artmel@well.sf.ca.us (Artur Melnick) yozadi:&gt; Kreyg Rowland, bizning kompaniya ba&#39;zi muhokama bor edi sci.crypt uning bo&#39;lagini &quot;Yangi shifrlash&quot;&gt; posted buyon&gt; Communications Technologies, Inc, va xavfsiz shifrlash&gt; algoritm, Nea.
+yangi shifrlash algoritmlarni ustida klassik fikr Fridman keladi:
+&quot;U allaqachon juda qiyin, bir singan kishi kelgan ekan No yangi Cypher inobatga arziydi.&quot;
+Tarixan, Friedman o&#39;ng bo&#39;ldi.
+Bu yaxshi Cypher rivojlantirish uchun, albatta, qiyin.
+IBMning Lucifer, DES uchun kashshof, halokatli nomukammal deb chiqadi.
+DES tashqari KES kabi tizimlar eng kriptoanaliz, termoq uchun zaif bo&#39;lishi ko&#39;rinadi.
+umumiy kalit shifrlash (yuk xalta cyphers unutdingizmi?) birinchi ikki harakat qiladi singan edi.
+Emas, balki butun elektromexanik davrning mashina cyphers of agar eng oxir-oqibat buzilgan edi.
+Uy-pishirmoq shifrlash uchun kompyuter davrida urinishlar umidsizlik edi; Cryptologia yilda &quot;ma&#39;lumotlar ishonchsizlik paketlar bir tadqiqot&quot; klassik 1980 mashhur &quot;xavfsizlik paketlar&quot; bir necha uchun tahlil va sinishi texnikasi o&#39;z ichiga oladi.
+A yangi, mulkiy algoritm?
+Bo&#39;lishi mumkin emas.
+AQSh bu narsa umumiy eksport ruxsat bo&#39;lsa, u zaif bo&#39;lishi kerak; joriy qoidalarga ish qilib.
+(; DES 56 bit ham ko&#39;p 32 bit hech qanday muammo bo&#39;lishi ko&#39;rinadi) eksport qilish (I Word Perfect deb hukmronligi ostida muvofiqligini deb o&#39;ylayman) yoki zaif algoritmlarni Bugungi kunda qisqa klavishlar bilan tizimlari ruxsat berish uchun tayyor bor.
+Men bu bolalar ekanini topish holda PTO va Davlat departamentining Qurol nazorati bo&#39;limi orqali o&#39;z uslublarini cho&#39;ponlik iymon mumkin emas.
+John Nagle
+p.s.
+Yo&#39;q, men ham Clipper bilan qiziqarli emasman, lekin bu boshqa bir masala edi.

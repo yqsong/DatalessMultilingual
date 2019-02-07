@@ -1,0 +1,156 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  	
+  	<modelVersion>4.0.0</modelVersion>
+	<groupId>edu.illinois.cs.cogcomp</groupId>
+  	<artifactId>multilingual-dataless</artifactId>
+ 	<name>multilingual-dataless</name>
+ 	<packaging>jar</packaging>
+	<version>0.0.1-SNAPSHOT</version>
+	<url>http://cogcomp.cs.illinois.edu</url>
+ 
+ 	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+	</properties> 
+  
+  	<repositories>
+		<repository>
+			<id>CogcompSoftware</id>
+			<name>CogcompSoftware</name>
+			<url>http://cogcomp.cs.illinois.edu/m2repo/</url>
+		</repository>
+	</repositories>
+      
+ 	<dependencies>
+ 		<dependency>
+			<groupId>org.apache.lucene</groupId>
+			<artifactId>lucene-core</artifactId>
+			<version>5.3.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.lucene</groupId>
+			<artifactId>lucene-analyzers-common</artifactId>
+			<version>5.3.0</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.apache.lucene</groupId>
+			<artifactId>lucene-queryparser</artifactId>
+			<version>5.3.0</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.apache.lucene</groupId>
+			<artifactId>lucene-analyzers-kuromoji</artifactId>
+			<version>5.3.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.lucene</groupId>
+			<artifactId>lucene-analyzers-smartcn</artifactId>
+			<version>5.3.0</version>
+		</dependency>		
+		<dependency>
+			<groupId>org.apache.lucene</groupId>
+			<artifactId>lucene-analyzers-stempel</artifactId>
+			<version>5.3.0</version>
+		</dependency>		
+
+		
+		<dependency>
+			<groupId>edu.illinois.cs.cogcomp</groupId>
+			<artifactId>DatalessClassification</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>edu.illinois.cs.cogcomp</groupId>
+			<artifactId>wikipediaAPI</artifactId>
+			<version>2.1.6-SNAPSHOT</version>
+		</dependency>		 	
+		<dependency>
+			<groupId>edu.illinois.cs.cogcomp</groupId>
+			<artifactId>big-data-utils</artifactId>
+			<version>1.0.1</version>
+		</dependency>
+		
+		<dependency>
+            <groupId>edu.illinois.cs.cogcomp</groupId>
+            <artifactId>edison</artifactId>
+            <version>0.7.9</version>
+        </dependency>
+        
+		<dependency>
+            <groupId>edu.illinois.cs.cogcomp</groupId>
+            <artifactId>illinois-nlp-readers</artifactId>
+            <version>0.0.2</version>
+        </dependency>
+
+<dependency>
+    <groupId>net.sf.trove4j</groupId>
+    <artifactId>trove4j</artifactId>
+    <version>2.0.2</version>
+</dependency>
+<dependency>
+    <groupId>org.apache.logging.log4j</groupId>
+    <artifactId>log4j-core</artifactId>
+    <version>2.6.2</version>
+</dependency>
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-collections4</artifactId>
+    <version>4.1</version>
+</dependency>
+        
+	</dependencies> 
+
+	<distributionManagement>
+	  <repository>
+	    <id>CogcompSoftware</id>
+	    <name>CogcompSoftware</name>
+	    <url>scp://bilbo.cs.illinois.edu:/mounts/bilbo/disks/0/www/cogcomp/html/m2repo</url>
+	  </repository>
+	</distributionManagement>
+
+<build>
+    <sourceDirectory>src</sourceDirectory>
+  	<extensions>
+      <extension>
+          <groupId>org.apache.maven.wagon</groupId>
+          <artifactId>wagon-ssh</artifactId>
+          <version>2.4</version>
+      </extension>
+  	</extensions>
+  
+    <resources>
+      <resource>
+        <directory>src</directory>
+        <excludes>
+          <exclude>**/*.java</exclude>
+        </excludes>
+      </resource>
+    </resources>
+    <plugins>
+  		<plugin>
+       		<artifactId>maven-compiler-plugin</artifactId>
+        	<version>3.1</version>
+       		<configuration>
+          		<source>1.8</source>
+          		<target>1.8</target>
+        	</configuration>
+    	</plugin>
+		<plugin>
+  			<groupId>org.apache.maven.plugins</groupId>
+    			<artifactId>maven-source-plugin</artifactId>
+    			<version>2.4</version>
+    			<executions>
+      				<execution>
+        				<id>attach-sources</id>
+    				<goals>
+     			 		<goal>jar</goal>
+    				</goals>
+      				</execution>
+    			</executions>
+			</plugin>
+    </plugins>
+</build>
+ 
+</project>

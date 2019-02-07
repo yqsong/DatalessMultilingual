@@ -1,0 +1,18 @@
+Daga: dbd@icf.hrb.com (Douglas B. Dodson) Subject: Windows 3.1 ko DOS 5.0 ko SMARTDRV ko ???
+Hello,
+Na yi tunani wannan matsala iya samun wani abu da ya yi da Windows 3.1 SMARTDRV da VESA video katin ... wani ra&#39;ayoyin ???
+Kwanan nan na sayi wani 486DX-33 na&#39;ura da ni da ciwon matsaloli inda na&#39;ura za ta ba zato ba tsammani daskare ko sake yi.
+Wannan na iya faruwa a Windows 3.1 ko DOS 5.0.
+Wani lokacin shi ne, bayan buga wani daftarin aiki, wani lokacin, bayan ta yin amfani da linzamin kwamfuta, da kuma wani lokacin kawai idan na zaune a can.
+Sau biyu a lõkacin da ta faru, da na&#39;ura rebooted da ƙaho bakwai beeps.
+Na duba cikin takardun da bakwai sauti code nufi matsala tare interrupts.
+Da na&#39;ura na da da wadannan sanyi da kuma files:
+486DX-33 Ami BIOS 5,25 da kuma 3.5 floppies 170 Meg IDE rumbun kwamfutarka 256k cache Microsoft jituwa linzamin kwamfuta a kan com1 Citizen GSX-145 a lpt1 NI SuperVGA Monitor da VESA Windows totur Card w / 1Meg Biyu VESA ramummuka Windows 3.1 DOS 5.0
+CONFIG.SYS ========== NA&#39;URA = C: \ Windows \ HIMEM.SYS DOS = babban DEVICEHIGH = C: \ DOS \ SETVER.EXE fayiloli = 20 = 20 BUFFERS stacks = 9.128
+AUTOEXEC.BAT ============ECHO KASHE LH C: \ Windows \ SMARTDRV.EXE 1024 m $ p $ g hanyar C: \ DOS. C: \ Windows. C: \ linzamin kwamfuta LH C : \ linzamin kwamfuta \ linzamin kwamfuta SET na dan lokaci = C: \ DOS LH C: \ DOS \ DOSKEY
+Lokacin da na&#39;ura freezes, ba zan iya amfani da linzamin kwamfuta ko keyboard ko amfani da Ctrl-Alt-Del to sake yi.
+Idan wani wanda zai iya ba ni da wani taimako, da na ƙwarai godiya da shi.
+Kuma wanda zai iya taimaka saita wannan na&#39;ura da mafi kyaun yadda ya dace (memory hikima) da na godiya da kuma.
+- Douglas B. Dodson Internet: DBD@ICF.HRB.COM HRB Systems, Inc.
+Jihar College, PA Amurka 16804
+Disclaimer! =========== Duk wani ra&#39;ayoyi ko ra&#39;ayin da aka bayyana a nan ba dole ba ne daidai da ra&#39;ayoyi ko ra&#39;ayin na HRB.

@@ -1,0 +1,21 @@
+Daga: hal@cco.caltech.edu (Hal Finney) Subject: Re: Ta yaya gaske aiki? (ya Re: rubutu na White House sanarwar da Q &amp; Kamar yadda a clipper guntu boye-boye)
+Marc VanHeyningen &lt;mvanheyn@cs.indiana.edu&gt; rubuta cewa:
+&gt; Babban abu Na ba su samu ne ko wannan guntu aiwatar&gt; mai fasali ko asymmetric Hikimar rubutun dabaru.
+Wani sani?
+Ban sani ba, amma ba ni da matsayin shirye ya yayata yadda kowa.
+Da dama mutane sun nuna cewa kwakwalwan kwamfuta amfani jama&#39;a-key cryptography.
+Wani yiwuwar ne a yi amfani da Diffie-Hellman key musayar, ko wasu algorithm wanda yana da irin wannan sakamako.
+DH damar biyu ƙare zuwa yarda a kan wani zaman key abin da suka yi amfani da tare da mai fasali cryptography (wani abu kamar des) ga boye-boye.
+Ta yaya za a &quot;mayar da kofa&quot; makullin aiki a cikin wannan tsarin?
+Zan iya ganin &#39;yan yiwuwa.
+Daya shi ne, DH-kamar algorithm yana da dukiya da cewa zaman key za a iya deduced da wani eavesdropper wanda ya san baya kofa makullin daya (ko yiwu duka biyu) communicants.
+Mai yiwuwa, a bazuwar lambobin amfani a cikin DH ake seeded da mayar da kofa key, ko wasu irin.
+Wani yiwuwar, kamar yadda aka nuna a nan a baya, shi ne, kwakwalwan kwamfuta kawai watsa shirye-shirye cikin zaman key, rufaffen da guntu ta mallaka na ciki asiri key.
+A cikin wannan tsarin baya kofa makullin ne m makullin mai amfani ga decrypting wannan zaman key watsa shirye-shirye.
+A gaskiya guntu ta asiri key ba ya bukatar ya zama babban jama&#39;a key a cikin wannan cutarwa, amma zai iya zama m ga m baya-kofa key.
+(Wannan shawara alama mafi saukin ganewa a gare ni.)
+Duk da wani yiwuwar shi ne, boye-boye algorithm amfani da saƙon kanta yana da &quot;dual key&quot; dukiya, cewa mallaki ko dai na biyu makullin za a iya amfani da su decrypt shi.
+Daya key zai zama zaman key daga DH musayar, da sauran zai zama baya kofa key na guntu.
+Yana da daraja abin lura cewa daya daga cikin bada shawarwari Dorothy Denning tãyar a lokacin ta mamaki prescient on-line tattaunawa karshe Nuwamba Disamba da kuma wani bambancin on Diffie-Hellman a cikin abin da ɓangare na uku zai shiga a deriving zaman makullin.
+Wannan ba ya quite shige zuwa cikin abin da muka sani na yadda Clipper ayyukan amma alamu da waɗanda suka yi da wuri sanin Clipper (ko wanda tunanin aka ko ta yaya aiki tare Clipper zanen kaya) na iya yi Diffie-Hellman a kan zukatansu.
+Hal Finney
